@@ -6,6 +6,7 @@ var product = difference * 5;
 
 var quotient = product / 2;
 
-var remainder = quotient % 2;
+var remainder = sum % 2;
 
 document.getElementById("result").innerHTML = quotient;
+
